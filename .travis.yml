@@ -9,7 +9,7 @@ install:
 # 构建全站的所有网页
 script:
   - hugo version # 显示hugo的版本
-  - hugo --baseUrl="https://chinadevopsdays.github.io/" # 在Travis里构建全站页面到public目录中
+  - hugo # 在Travis里构建全站页面到public目录中
   - cp README.md CNAME public  # 将必要的文件复制到public中
 
 #部署public中的所有内容到目标repo中
