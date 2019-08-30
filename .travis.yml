@@ -15,12 +15,12 @@ script:
 #部署public中的所有内容到目标repo中
 deploy:
   local_dir: public # 部署的源是本地的public目录 
-  repo: china-devopsdays/china-devopsdays.github.io # 部署的目的地是这个repo路径
+  repo: chinadevopsdays/chinadevopsdays.github.io # 部署的目的地是这个repo路径
   target_branch: master # GitHub pages 的部署的目标分支是master，很多使用也用的是gh-pages分支
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN # 跨repo部署需要使用一个Github的TOKEN鉴权，在github账户的个人配置里获取
-  email: liuzh66@gmail.com # TOKEN对应的账户的邮箱
-  name: "Martin Liu"
+  email: 13661333502@qq.com # TOKEN对应的账户的邮箱
+  name: "Cunhua Feng"
   on:
     branch: master 
