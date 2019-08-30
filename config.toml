@@ -27,37 +27,37 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Events"
+    name = "活动"
     url  = "/events/"
     identifier = "events"
     weight = 2
 
 [[menu.main]]
-    name = "Blog"
+    name = "博客"
     identifier = "blog"
     url  = "/blog/"
     weight = 3
 
 [[menu.main]]
-    name = "Sponsor"
+    name = "赞助"
     url  = "/sponsor/"
     identifier = "sponsor"
     weight = 4
 
 [[menu.main]]
-    name = "speaking"
+    name = "演讲"
     url  = "/speaking/"
     identifier = "speaking"
     weight = 5
 
 [[menu.main]]
-    name = "Organizing"
+    name = "组织"
     url  = "/organizing/"
     identifier = "organizing"
     weight = 6
 
 [[menu.main]]
-    name = "About"
+    name = "关于"
     url  = "/about/"
     identifier = "about"
     weight = 7
@@ -67,7 +67,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 1
     name = "GitHub"
-    url = "https://github.com/china-devopsdays/china-devopsdays-web"
+    url = "https://github.com/chinadevopsdays/china-devopsdays-web"
     pre = "<i class='fa fa-2x fa-github'></i>"
 
 [[menu.topbar]]
