@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/chinadevopsdays/chinadevopsdays-web.svg?branch=master)](https://travis-ci.org/chinadevopsdays/chinadevopsdays-web)
 
 
-# ChinaDevOpsDays.org网站的原代码库
+# ChinaDevOpsDays.org网站的源代码库
 
 源码位于 GitHub，使用 [Hugo](https://gohugo.io) 构建，[hugo-universal](https://github.com/devcows/hugo-universal-theme) 主题。
 
