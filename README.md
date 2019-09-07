@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/chinadevopsdays/chinadevopsdays-web.svg?branch=master)](https://travis-ci.org/china-devopsdays/chinadevopsdays-web)
+[![Build Status](https://travis-ci.org/chinadevopsdays/chinadevopsdays-web.svg?branch=master)](https://travis-ci.org/chinadevopsdays/chinadevopsdays-web)
+
 
 # ChinaDevOpsDays.org网站的原代码库
 

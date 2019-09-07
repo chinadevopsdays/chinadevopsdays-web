@@ -18,7 +18,7 @@ DevOpsDays中国志愿者首次大会会议纪要
 
 1） 中国DevOpsDays社区简介 /5min @孙振鹏
 
-可以参考 https://china-devopsdays.github.io/about/
+可以参考 https://chinadevopsdays.github.io/about/
 
 2） 上海站大会准备活动和更新 /10min @姚冬
 
@@ -54,7 +54,7 @@ DevOps Meetup的线下活动（半天活动）
 天津地区： 基本筹划完成
 西安地区： 活动已经发布
 
-场地信息 https://china-devopsdays.github.io/sponsor/
+场地信息 https://chinadevopsdays.github.io/sponsor/
 
 5）中国社区官网发布
 
@@ -62,7 +62,7 @@ DevOps Meetup的线下活动（半天活动）
 2. 如何投稿官网
 3. 演示一个完整的通过github投稿的流程 /10min @刘征
 
-如何投稿 https://china-devopsdays.github.io/blog/my-newpost-title/
+如何投稿 https://chinadevopsdays.github.io/blog/my-newpost-title/
 
 6）问答 /10min
 
