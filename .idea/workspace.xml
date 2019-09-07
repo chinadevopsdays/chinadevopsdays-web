@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f3f2cf1-e105-4d6f-888a-01b608a41293" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hugo-universal-theme/static/css/style.blue.css" afterPath="$PROJECT_DIR$/themes/hugo-universal-theme/static/css/style.blue.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hugo-universal-theme/static/css/custom.css" afterPath="$PROJECT_DIR$/themes/hugo-universal-theme/static/css/custom.css" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +19,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/hugo-universal-theme/static/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="427">
-              <caret line="96" column="14" lean-forward="true" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="14" />
+              <caret line="96" column="14" lean-forward="false" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -126,11 +127,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.blue.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.blue.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/hugo-universal-theme/static/css/style.blue.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="3164" column="18" lean-forward="false" selection-start-line="3164" selection-start-column="18" selection-end-line="3164" selection-end-column="18" />
+            <state relative-caret-position="285">
+              <caret line="3163" column="0" lean-forward="false" selection-start-line="3163" selection-start-column="0" selection-end-line="3163" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -146,6 +147,7 @@
       <find>china-devopsdays</find>
       <find>china-devopsdays-web</find>
       <find>color: #467fb</find>
+      <find>#467fb</find>
     </findStrings>
     <replaceStrings>
       <replace>chinadevopsdays-web</replace>
@@ -164,13 +166,13 @@
       <list>
         <option value="$PROJECT_DIR$/content/events.md" />
         <option value="$PROJECT_DIR$/themes/hugo-universal-theme/layouts/partials/carousel.html" />
-        <option value="$PROJECT_DIR$/themes/hugo-universal-theme/static/css/custom.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/content/blog/summary-at-1st-community-meeting.md" />
         <option value="$PROJECT_DIR$/content/blog/my-new-post-title.md" />
         <option value="$PROJECT_DIR$/themes/hugo-universal-theme/static/css/style.blue.css" />
+        <option value="$PROJECT_DIR$/themes/hugo-universal-theme/static/css/custom.css" />
       </list>
     </option>
   </component>
@@ -662,12 +664,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567829822009</updated>
-      <workItem from="1567829825882" duration="4172000" />
+      <workItem from="1567829825882" duration="5087000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4172000" />
+    <option name="totallyTimeSpent" value="5087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -796,14 +798,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-universal-theme/static/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="96" column="14" lean-forward="true" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/hugo-universal-theme/archetypes/default.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -888,8 +882,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/hugo-universal-theme/static/css/style.blue.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="3164" column="18" lean-forward="false" selection-start-line="3164" selection-start-column="18" selection-end-line="3164" selection-end-column="18" />
+        <state relative-caret-position="285">
+          <caret line="3163" column="0" lean-forward="false" selection-start-line="3163" selection-start-column="0" selection-end-line="3163" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-universal-theme/static/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="96" column="14" lean-forward="false" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="14" />
           <folding />
         </state>
       </provider>
