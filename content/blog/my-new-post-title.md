@@ -69,7 +69,7 @@ categories: ["分享"] -> categories: ["投稿"]
 
 将网站的代码库Fork为个人的代码库。
 
-![](/blog/fork.png)
+![](/blog/fork.jpg)
 
 ![](/blog/fork2.png)
 
@@ -100,7 +100,7 @@ chinadevopsdays-web/
 
 #添加上游代码库路径
 
-λ git remote add upstream https://github.com/china-devopsdays/chinadevopsdays-web.git
+λ git remote add upstream https://github.com/chinadevopsdays/chinadevopsdays-web.git
 
 
 #查看添加后的结果
@@ -108,8 +108,8 @@ chinadevopsdays-web/
 λ git remote -v
 origin  https://github.com/devopscoachorg/chinadevopsdays-web.git (fetch)
 origin  https://github.com/devopscoachorg/chinadevopsdays-web.git (push)
-upstream        https://github.com/china-devopsdays/chinadevopsdays-web.git (fetch)
-upstream        https://github.com/china-devopsdays/chinadevopsdays-web.git (push)
+upstream        https://github.com/chinadevopsdays/chinadevopsdays-web.git (fetch)
+upstream        https://github.com/chinadevopsdays/chinadevopsdays-web.git (push)
 
 
 #签出主干分支
@@ -121,7 +121,7 @@ Your branch is up to date with 'origin/master'.
 #将上游最新主干代码库更新到本地主干
 
 λ git pull upstream master --rebase
-From https://github.com/china-devopsdays/chinadevopsdays-web
+From https://github.com/chinadevopsdays/chinadevopsdays-web
  * branch            master     -> FETCH_HEAD
  * [new branch]      master     -> upstream/master
 Already up to date.
