@@ -10,6 +10,7 @@ defaultContentLanguage = "zh"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-147411920-1"
+
 # Code highlight
 pygmentsUseClasses = false
 pygmentCodeFences = true
