@@ -8,8 +8,8 @@
 
 # CI/CD
 
-* Travis CI https://travis-ci.org/chinadevopsdays/chinadevopsdays-web/j
-* Netlify https://app.netlify.com/sites/chinadevopsdays/overview
+* Travis CI： https://travis-ci.org/chinadevopsdays/chinadevopsdays-web/j
+* Netlify： https://app.netlify.com/sites/chinadevopsdays/overview
 
 
 # 投稿说明
