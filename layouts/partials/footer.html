@@ -5,7 +5,7 @@
         <div class="col-md-4 col-sm-6">
             <h4>{{ i18n "aboutUs" }}</h4>
 
-            {{ .Site.Params.about_us | markdownify }}
+            <a href="/about">{{ .Site.Params.about_us | markdownify }}</a>
             
             <hr class="hidden-md hidden-lg hidden-sm">
 
@@ -72,6 +72,7 @@ _________________________________________________________ -->
 <div id="copyright">
     <div class="container">
         <div class="col-md-12">
+            <p class="pull-left">{{ getenv "BUILD_TIME" }}</p>
             {{ if isset .Site.Params "copyright" }}
             <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
             {{ end }}
@@ -87,3 +88,7 @@ _________________________________________________________ -->
 <!-- /#copyright -->
 
 <!-- *** COPYRIGHT END *** -->
+
+{{ if not .Site.IsServer }}
+{{ template "_internal/google_analytics_async.html" . }}
+{{ end }}
