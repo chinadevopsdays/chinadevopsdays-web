@@ -87,3 +87,7 @@ _________________________________________________________ -->
 <!-- /#copyright -->
 
 <!-- *** COPYRIGHT END *** -->
+
+{{ if not .Site.IsServer }}
+{{ template "_internal/google_analytics_async.html" . }}
+{{ end }}
