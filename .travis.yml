@@ -8,7 +8,7 @@ install:
 
 # 构建全站的所有网页
 script:
-  - hugo version # 显示hugo的版本
+  - hugo version  && date # 显示hugo的版本
   - export BUILD_TIME=`date '+%Y-%m-%d %H:%M:%S'`
   - hugo # 在Travis里构建全站页面到public目录中
   - echo $BUILD_TIME
